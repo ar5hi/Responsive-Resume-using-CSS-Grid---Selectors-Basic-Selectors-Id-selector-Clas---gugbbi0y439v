@@ -31,33 +31,33 @@
     border: 5px solid white;
     border-radius: 30%;
 }
-.name{
-    size: 1.2rem;
+.name {
+    font-size: 1.2rem;
     font-weight: 700;
-    padding: 0.8rem;
     text-align: center;
-    letter-spacing:0.02px;
-    text-transform:uppercase;
+    text-transform: uppercase;
+    letter-spacing: 0.02px;
+    padding: 0.8rem;
 }
 .designation{
-    size: 1rem;
+    font-size: 1rem;
     padding-bottom: 0.5rem;
     text-align: center;
     text-transform:uppercase;
 }
 .description{
-    size: 0.75rem;
+    font-size: 0.75rem;
     padding: 1rem;
     text-align: center;
 }
 .skills-title{
-    size: 0.75rem;
+    font-size: 0.75rem;
     padding: 1rem 0.5rem;
     text-align: center;
     text-transform:uppercase;
 }
 .skill-name{
-    size: 0.65rem;
+    font-size: 0.65rem;
     padding-bottom: 0.5rem;
     text-align: left;
 }
